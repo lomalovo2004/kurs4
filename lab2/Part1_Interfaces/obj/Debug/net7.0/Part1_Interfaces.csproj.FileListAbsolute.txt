@@ -1,0 +1,15 @@
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/bin/Debug/net7.0/Part1_Interfaces
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/bin/Debug/net7.0/Part1_Interfaces.deps.json
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/bin/Debug/net7.0/Part1_Interfaces.runtimeconfig.json
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/bin/Debug/net7.0/Part1_Interfaces.dll
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/bin/Debug/net7.0/Part1_Interfaces.pdb
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.csproj.AssemblyReference.cache
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.AssemblyInfoInputs.cache
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.AssemblyInfo.cs
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.csproj.CoreCompileInputs.cache
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.dll
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/refint/Part1_Interfaces.dll
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.pdb
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/Part1_Interfaces.genruntimeconfig.cache
+/Users/noname/Documents/study/synergy/kurs4/collective/lab2/LaboratoryWork2/Part1_Interfaces/obj/Debug/net7.0/ref/Part1_Interfaces.dll
